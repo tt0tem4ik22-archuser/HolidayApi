@@ -21,7 +21,7 @@ API_KEY=your_api_key
 После установки всех зависимостей запустите его с помощью данной последовательности команд:
 ```
 cd /your_path_to_project/HolidayAPI/
-python3 pain.py
+python3 main.py
 ```
 
 ## Цель проекта
