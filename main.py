@@ -11,9 +11,9 @@ def main():
     load_dotenv()
     api_key = os.getenv("API_KEY")
     params = {
-    	api_key="{api_key}",
-    	country="RU",
-    	year=2025
+    	"api_key": "{api_key}",
+    	"country": "RU",
+    	"year": 2025
     }
     link = f"https://calendarific.com/api/v2/holidays"
 
