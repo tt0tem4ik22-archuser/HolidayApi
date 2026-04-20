@@ -10,7 +10,7 @@ Python3 должен быть уже установлен.
 pip install -r requirements.txt
 ```
 
-Получить свой API ключ [по ссылке](https://calendarific.com/api-documentation) и введите его в файл .env
+Получить свой API ключ [по ссылке](https://calendarific.com/api-documentation) и введите его в файл ```.env```
 
 ```
 API_KEY=your_api_key
